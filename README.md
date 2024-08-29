@@ -2,4 +2,4 @@
 
 ### Instructions
 
-#### run to start application `code` php Main.php
+#### run  `php Main.php` to start application
