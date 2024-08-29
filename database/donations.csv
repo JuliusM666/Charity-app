@@ -1,0 +1,5 @@
+id,donor_name,amount,charity_id,date_time
+1,John Johnson,100,1,8/20/2024
+2,Peter Peterson,200,1,8/21/2024
+3,Brad Bradly,300,2,8/22/2024
+4,Chad Chadly,400,2,8/23/2024
